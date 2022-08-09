@@ -6,4 +6,4 @@ The Simon game is the exciting electronic game of lights and sounds in which pla
 * JavaScript
 * Jquery
 
-![127 0 0 1_5500_index html (6)](https://user-images.githubusercontent.com/91674419/183666603-999c500b-c50a-4ca1-93e7-8ccd264d4483.png)
+![image](https://user-images.githubusercontent.com/91674419/183666826-60d425a1-10da-4bc0-b29a-44c6ae439916.png)
